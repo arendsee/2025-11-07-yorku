@@ -85,6 +85,14 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
+UNIX lessons: <a href=https://swcarpentry.github.io/shell-novice/index.html>https://swcarpentry.github.io/shell-novice/index.html</a>
+
+Version control with git: <a href=https://swcarpentry.github.io/git-novice/>https://swcarpentry.github.io/git-novice/</a>
+
+Programming with R: <a href=https://swcarpentry.github.io/r-novice-inflammation/>https://swcarpentry.github.io/r-novice-inflammation/</a>
+
+Etherpad: <a href=https://pad.carpentries.org/2025-11-07-yorku>https://pad.carpentries.org/2025-11-07-yorku</a>
+
 {% comment %}
 INTRODUCTION
 
